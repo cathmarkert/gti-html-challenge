@@ -10,9 +10,8 @@ header{
     
 }
 #titulo{
-    font-size: 40px;
-    background-color: #ff8c1a;
-    opacity: 100%;
+    font-size: 50px;
+    background-color: #ff8c1a;opacity:0.8;
 }
 #subtitulo{
     color: #000000;
