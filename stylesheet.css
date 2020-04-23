@@ -34,6 +34,13 @@ header{
     font-weight: bold;
     color:000000;
 }
+#legendaa{
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:white;
+    opacity: 90%;
+}
 #logo{
     width: 80%;
     text-align: center ;
@@ -41,10 +48,10 @@ header{
     padding-bottom: 5px;
 }
 #logoc{
-    width: 65%;
+    width: 70%;
     text-align: center ;
     padding-top: 30px;
-    padding-bottom: 5px;
+    padding-bottom: 2px;
 }
 #logoe{
     width: 65%;
@@ -63,4 +70,38 @@ header{
     text-align: center ;
     padding-top: 145px;
     padding-bottom: 5px;
+}
+#time{
+    font-size: 20px;
+    font-family: baloo bhaina 2;
+    color:000000;
+}
+#title{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:000000;
+}
+#desc{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:000000;
+    opacity: 0.68;
+   
+}
+#icone{
+    width: 70%;
+    text-align: center;
+    border-color: #ff3333;
+    border-style: solid;
+    border-width: 7px;
+    border-radius: 50%;
+    
+    
+}
+
+#futuro{
+    padding-top:30px;
+   
 }
