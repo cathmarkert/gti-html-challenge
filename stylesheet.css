@@ -21,3 +21,15 @@ header{
     font-size: 20px;
     font-family: sans-serif;
 }
+#image{
+    text-align: center ;
+    width: 70%;
+    padding-top: 50px;
+    padding-bottom: 5px;
+}
+#legenda{
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:000000;
+}
