@@ -1,20 +1,21 @@
 header{
     text-align: center;
-    padding-top: 20%;
+    padding-top: 25%;
     padding-bottom: 20%;
-    background-image: url(img/header2.jpg);
+    background-image: url(img/header4.jpg); opacity: 0.97;
     background-repeat: no-repeat;
     background-size: cover;width:100%;
+    
   
     
 }
 #titulo{
     font-size: 40px;
-    color:#ff1a1a;
-    font-weight: bold;
+    background-color: #ff8c1a;
+    opacity: 100%;
 }
 #subtitulo{
-    color: #0d0d0d;
+    color: #000000;
 }
 
 #text{
