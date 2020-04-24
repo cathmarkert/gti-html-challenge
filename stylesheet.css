@@ -10,7 +10,7 @@ header{
     
 }
 #titulo{
-    font-size: 50px;
+    font-size: 55px;
     background-color: #ff8c1a;opacity:0.8;
 }
 #subtitulo{
@@ -24,18 +24,18 @@ header{
 }
 #image{
     text-align: center ;
-    width: 70%;
+    width: 40%;
     padding-top: 50px;
     padding-bottom: 5px;
 }
 #legenda{
-    font-size: 23px;
+    font-size: 20px;
     font-family: sans-serif;
     font-weight: bold;
     color:000000;
 }
 #legendaa{
-    font-size: 23px;
+    font-size: 20px;
     font-family: sans-serif;
     font-weight: bold;
     color:white;
@@ -107,8 +107,8 @@ header{
 }
 
 #bbb{
-    height:195px;
-    width: 210px;
+    height:190px;
+    width: 200px;
     border-color: #e6e6e6;
     border-style: dashed;
     border-width: 3px;
@@ -134,7 +134,7 @@ header{
 }
 #manu{
     height:205px;
-    width: 210px;
+    width: 208px;
     border-color: #e6e6e6;
     border-style: dashed;
     border-width: 3px;
@@ -142,8 +142,8 @@ header{
 
 }
 #babu{
-    height:215px;
-    width: 215px;
+    height:205px;
+    width: 205px;
     border-color: #e6e6e6;
     border-style: dashed;
     border-width: 3px;
@@ -161,17 +161,17 @@ header{
 }
 #unifor{
     height:200px;
-    width: 250px;     
+    width: 260px;     
 }
 #ufc{
     height:180px;
-    width: 160px;     
+    width: 130px;     
 }
 #uece{
     height:170px;
-    width: 150px;     
+    width: 120px;     
 }
 #unich{
     height:170px;
-    width: 200px;     
+    width: 220px;     
 }
