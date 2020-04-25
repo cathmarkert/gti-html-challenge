@@ -106,9 +106,9 @@ header{
    
 }
 
-#bbb{
-    height:190px;
-    width: 200px;
+#taylor{
+    height:205px;
+    width: 213px;
     border-color: #e6e6e6;
     border-style: dashed;
     border-width: 3px;
@@ -132,25 +132,25 @@ header{
     border-radius: 50%;
 
 }
-#manu{
-    height:205px;
-    width: 208px;
+#harry{
+    height:203px;
+    width: 210px;
     border-color: #e6e6e6;
     border-style: dashed;
     border-width: 3px;
     border-radius: 50%;
 
 }
-#babu{
-    height:205px;
-    width: 205px;
+#ed{
+    height:207px;
+    width: 209px;
     border-color: #e6e6e6;
     border-style: dashed;
     border-width: 3px;
     border-radius: 50%;
 
 }
-#thelma{
+#dua{
     height:200px;
     width: 200px;
     border-color: #e6e6e6;
@@ -160,18 +160,25 @@ header{
 
 }
 #unifor{
-    height:200px;
-    width: 260px;     
+    height:195px;
+    width: 270px;     
 }
 #ufc{
     height:180px;
-    width: 130px;     
+    width: 120px;     
 }
 #uece{
     height:170px;
-    width: 120px;     
+    width: 110px;     
 }
 #unich{
-    height:170px;
-    width: 220px;     
+    height:160px;
+    width: 260px;     
+}
+
+#footer{
+    height:60px;
+    width: 60px;
+    border-radius: 50%;
+
 }
