@@ -13,10 +13,7 @@ header{
     font-size: 55px;
     background-color: #ff8c1a;opacity:0.8;
 }
-#subtitulo{
-    color: #000000;
-    font-size: 35px;
-}
+
 
 #text{
     font-size: 20px;
@@ -95,7 +92,7 @@ header{
     width: 120px;
     border-color: #ff3333;
     border-style: solid;
-    border-width: 7px;
+    border-width: 5px;
     border-radius: 50%;
     
     
@@ -108,7 +105,7 @@ header{
 
 #taylor{
     height:205px;
-    width: 213px;
+    width: 210px;
     border-color: #e6e6e6;
     border-style: dashed;
     border-width: 3px;
@@ -142,8 +139,8 @@ header{
 
 }
 #ed{
-    height:207px;
-    width: 209px;
+    height:210px;
+    width: 210px;
     border-color: #e6e6e6;
     border-style: dashed;
     border-width: 3px;
@@ -161,11 +158,11 @@ header{
 }
 #unifor{
     height:195px;
-    width: 270px;     
+    width: 280px;     
 }
 #ufc{
     height:180px;
-    width: 120px;     
+    width: 112px;     
 }
 #uece{
     height:170px;
@@ -177,8 +174,13 @@ header{
 }
 
 #footer{
-    height:60px;
-    width: 60px;
+    height:47px;
+    width: 47px;
     border-radius: 50%;
 
+}
+ #linha {
+    padding-top: 60px;
+    height:100px;
+    width: 100px;
 }
